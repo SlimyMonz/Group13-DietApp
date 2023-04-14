@@ -5,10 +5,10 @@ App created by FIU Group 13.
 Submitted by: **Harry Hocker**
 
 Team:
-Cesar Borroto
-Samuel Perez
-Saily Hernandez
-Harry James Hocker 
+* Cesar Borroto
+* Samuel Perez
+* Saily Hernandez
+* Harry James Hocker 
 
 Time spent: **55** hours spent in total
 

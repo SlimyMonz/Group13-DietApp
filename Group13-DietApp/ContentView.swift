@@ -12,7 +12,7 @@ import SwiftUI
 let urlBase = "https://api.spoonacular.com/recipes/complexSearch"
 let urlAPI = "?apiKey=d0cdfe10172549139f290c322a14702f"
 let urlDiet = "&diet=" // ketogenic, etc
-let urlResult = "&number=5" // 5 for 5 recipes; set due to API limitation
+let urlResult = "&number=25" // 25 for 25 recipes; set due to API limitation
 
 let urlSingle = "https://api.spoonacular.com/recipes/"
 let urlNutritionInfo = "&includeNutrition=false"
